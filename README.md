@@ -91,7 +91,7 @@ Ready to continue your tech exploration or need personalized guidance?
 Copyright (c) 2025 Jiří Svoboda (George Freedom) / George Freedom Tech
 
 This work (educational materials, including text, explanations, exercises, and accompanying code examples within the Jupyter Notebooks) is licensed under:
-* **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+* Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
 ---
 
