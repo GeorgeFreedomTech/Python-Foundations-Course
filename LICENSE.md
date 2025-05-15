@@ -1,6 +1,7 @@
 Copyright (c) 2025 Jiří Svoboda (George Freedom) / George Freedom Tech
 
-This work (educational materials, including text, explanations, exercises, and accompanying code examples within the Jupyter Notebooks) is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+This work (educational materials, including text, explanations, exercises, and accompanying code examples within the Jupyter Notebooks) is licensed under:
+* Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 To view a copy of this license, visit:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
