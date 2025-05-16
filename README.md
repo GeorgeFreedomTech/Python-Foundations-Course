@@ -8,7 +8,7 @@ Master Python fundamentals with this hands-on course (Lessons 0-9). Designed for
 
 ## 🚀 Welcome to Your Python Expedition!
 
-This repository hosts **"Python Foundations: From Core Concepts to Strategic Application"** – a comprehensive introductory course presented in a series of Jupyter Notebooks (Lessons 0-9). These materials have been meticulously crafted to guide you on your journey into the world of programming.
+This repository hosts **"Python Foundations: From Core Concepts to Strategic Application"** – a comprehensive introductory course presented in a series of Jupyter Notebooks. These materials have been crafted to guide you on your journey into the world of programming.
 
 This course is designed for beginners, career-changers, and anyone looking to build a solid understanding of Python from the ground up. We'll navigate from the absolute basics through core programming principles, empowering you to start your coding adventure with confidence.
 
@@ -33,9 +33,7 @@ Upon completing this expedition, you will be able to:
 * Write clean, readable, and functional Python code for basic tasks.
 * Utilize core data structures like lists and dictionaries effectively.
 * Design and use your own functions to create reusable code.
-* Understand the basics of Object-Oriented Programming (if covered in later, more advanced lessons based on these foundations).
 * Develop a strategic mindset for problem-solving and continuous learning in tech.
-* Be equipped with "future-ready" skills applicable to fields like AI, IoT, and MicroPython.
 
 ## 🎒 Prerequisites / Gear Up:
 
@@ -74,9 +72,9 @@ The lessons are provided as Jupyter Notebook (`.ipynb`) files. To use them:
 These materials serve multiple purposes:
 
 * **Educational Resource:** A practical, hands-on guide for self-study or as a supplementary resource.
-* **Professional Portfolio:** Demonstrating my teaching methodology and expertise as an AI-Enhanced Educator and Strategic Mentor under the George Freedom Tech brand.
+* **Professional Portfolio:** Demonstrating my teaching methodology and expertise.
 * **Content Foundation:** A source of examples, concepts, and inspiration for articles, tutorials, and social media content.
-* **Lead Magnet:** An insight into the quality and style of my mentoring services for individuals aiming to enhance their tech skills.
+* **Lead Magnet:** An insight into the quality and style of my mentoring services.
 
 ## 🔗 Next Steps & Connect:
 
