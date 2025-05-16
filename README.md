@@ -18,7 +18,7 @@ This course is designed for beginners, career-changers, and anyone looking to bu
 * **Lesson 1: Variables & Core Functions** – Your basic toolkit and first discoveries.
 * **Lesson 2: Strings, Functions & Methods** – Charting and manipulating textual data-paths.
 * **Lesson 3: Conditions & Flow Control** – Making decisions at the crossroads of your code.
-* **Lesson 4: Collections & Their Methods (Lists, Dictionaries, Sets, Tuples)** – Organizing your data, supplies, and discoveries.
+* **Lesson 4: Collections & Their Methods (Lists, Dictionaries, Sets, Tuples, Frozensets)** – Organizing your data, supplies, and discoveries.
 * **Lesson 5: Cycles, Loops & Iterations** – Automating repetitive tasks and scouting an area thoroughly.
 * **Lesson 6: Functions Deep Dive** – Crafting reusable tools and standard exploration procedures.
 * **Lesson 7: Modules & Packages** – Expanding your toolkit with external guides and specialized gear.
