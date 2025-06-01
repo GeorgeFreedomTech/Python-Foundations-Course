@@ -45,7 +45,7 @@ Upon completing this expedition, you will be able to:
 
 The lessons are provided as Jupyter Notebook (`.ipynb`) files. To use them:
 
-0. **Online** Download the files and go on: https://jupyter.org/try and upload&open them there
+0. **Online:** Download the Jupyter files and go on: https://jupyter.org/try .. and upload&open the files there
 
 -- OR--
 
