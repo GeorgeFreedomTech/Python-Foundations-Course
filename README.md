@@ -44,6 +44,9 @@ Upon completing this expedition, you will be able to:
 ## 🧭 How to Use These Materials:
 
 The lessons are provided as Jupyter Notebook (`.ipynb`) files. To use them:
+0. **Online** Download the files and go on: https://jupyter.org/try and upload&open them there
+
+-- OR--
 
 1.  **Clone or Download:** Get a copy of this repository onto your local machine.
     ```bash
