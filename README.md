@@ -97,4 +97,4 @@ This work (educational materials, including text, explanations, exercises, and a
 
 ---
 
-Chart your course in the world of Python and build skills for the future!
+Learn to speak the language of Python !
