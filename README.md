@@ -1,4 +1,4 @@
-# Python Foundations: Your Expedition into Code
+# Python Foundations Course: Your Expedition into Code
 
 By **George Freedom Tech** (George Freedom - Tech Educator & Strategic Mentor)
 
