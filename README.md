@@ -1,6 +1,6 @@
 # Python Foundations Course: Your Expedition into Code
 
-By **George Freedom Tech** (George Freedom - Tech Educator & Strategic Mentor)
+By **George Freedom**
 
 Master Python fundamentals with this hands-on course (Lessons 0-9). Designed for aspiring developers and tech explorers, these materials will help you build future-ready skills in Python, AI, and beyond!
 
