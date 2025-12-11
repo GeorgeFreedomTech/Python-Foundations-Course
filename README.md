@@ -35,42 +35,61 @@ Upon completing this expedition, you will be able to:
 * Design and use your own functions to create reusable code.
 * Develop a strategic mindset for problem-solving and continuous learning in tech.
 
-## 🎒 Prerequisites / Gear Up:
+## 🎒 Course Prerequisites / Gear Up:
 
 * No prior programming experience is required! This course is designed for absolute beginners.
 * A willingness to explore, experiment, and learn.
 * A computer with internet access.
 
-## 🧭 How to Use These Materials:
+## 🧭 How to Get and Run Course Materials:
 
-The lessons are provided as Jupyter Notebook (`.ipynb`) files. To use them:
+Here is a guide on how to download the Jupyter Notebooks (**.ipynb files**) and how to open them. You can choose to work locally (on your computer) or online.
 
-0. **Online:** Download the Jupyter files and go on: https://jupyter.org/try .. and upload&open the files there
+### Part 1: How to Download the Materials
 
--- OR--
+#### Option A: Download as ZIP (Easiest for Beginners)
+* Go to the main page of this repository on GitHub.
+* Click the green Code button.
+* Select **Download ZIP**.
+Important: Extract (unzip) the downloaded folder to a location on your computer (e.g., Documents/PythonCourse). Do not try to run files directly inside the ZIP archive.
 
-1.  **Clone or Download:** Get a copy of this repository onto your local machine.
+#### Option B: Git Clone (For Advanced Users)
+If you are comfortable with the terminal and want to easily update materials later:
+* Open your terminal or command prompt.
+* Run the following command:
     ```bash
-    git clone https://github.com/GeorgeFreedomTech/python-foundations-course.git
+        git clone https://github.com/GeorgeFreedomTech/python-foundations-course.git
     ```
-2.  **Ensure Jupyter is Installed:** You'll need Jupyter Notebook or JupyterLab.
-    * The common way is to install the Anaconda Distribution (which includes Jupyter).
-    * Alternatively, install it via pip:
-        ```bash
-        pip install notebook
-        # or for JupyterLab
-        pip install jupyterlab
-        ```
-3.  **Launch Jupyter:** Open your terminal or command prompt, navigate to the directory where you cloned/downloaded the files, and run:
-    ```bash
-    jupyter notebook
-    ```
-    or for JupyterLab:
-    ```bash
-    jupyter lab
-    ```
-4.  **Explore:** Your browser should open the Jupyter interface. Navigate to the lesson files and open them to start your learning expedition! Each lesson notebook contains explanations, code examples, and exercises. A corresponding "Solutions" notebook is provided for the exercises.
+### Part 2: How to Open and Run the Notebooks
+#### Option 1: VS Code (Recommended - Offline)
+This is the best way to work if you want to keep everything on your own computer.
 
+**Prerequisites:**
+* VS Code installed.
+* Python installed.
+* Jupyter Extension for VS Code installed (search for "Jupyter" by Microsoft in the Extensions marketplace).
+
+**Steps:**
+* Open VS Code.
+* Go to File > Open Folder... and select the folder you downloaded/cloned.
+* Click on any file ending in **.ipynb**.
+* In the top-right corner, click Select Kernel and choose your Python version (or venv).
+* You can now run the code cells by clicking the "Play" button next to them.
+
+#### Option 2: Google Colab (Alternative - Online)
+If you cannot install Python locally or want to try the code quickly in your browser.
+
+**Prerequisites:**
+* You have to have a Google account
+* 
+**Steps:**
+* Go to colab.research.google.com.
+* Log in with your Google Account.
+* Select the GitHub tab in the pop-up window.
+* Paste the URL of this repository and search.
+* Click on the notebook you want to open.
+* Alternatively: You can go to the Upload tab and upload the **.ipynb file** you downloaded in Part 1.
+  
 ## 💡 Purpose of This Repository:
 
 These materials serve multiple purposes:
