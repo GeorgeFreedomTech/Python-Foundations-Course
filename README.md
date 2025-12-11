@@ -81,14 +81,14 @@ If you cannot install Python locally or want to try the code quickly in your bro
 
 **Prerequisites:**
 * You have to have a Google account
-* 
+  
 **Steps:**
-* Go to colab.research.google.com.
-* Log in with your Google Account.
-* Select the GitHub tab in the pop-up window.
+* Go to **colab.research.google.com**.
+* Log in with your **Google Account**.
+* Select the **GitHub tab** in the pop-up window.
 * Paste the URL of this repository and search.
 * Click on the notebook you want to open.
-* Alternatively: You can go to the Upload tab and upload the **.ipynb file** you downloaded in Part 1.
+* **Alternatively:** You can go to the Upload tab and upload the **.ipynb file** you downloaded in Part 1.
   
 ## 💡 Purpose of This Repository:
 
